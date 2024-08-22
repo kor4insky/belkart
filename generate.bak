@@ -13,9 +13,7 @@ use Bitrix\Main\Type\Date;
 Loader::includeModule('iblock');
 Loader::includeModule('studio8.main');
 use Studio8\Main\IgraTable;
-use Studio8\Main\TransactionsTable;
-
-global $DB;
+us
 
 	if(COption::GetOptionString("siterm","busy")=="1") {
 		die('busy!! TRY AGAIN LATER'.PHP_EOL);
