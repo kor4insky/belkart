@@ -1,0 +1,55 @@
+@font-face {
+	font-family: 'MyriadPro';
+	font-weight:400;
+	src: url('../fonts/myriadpro-regular.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/myriadpro-regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/myriadpro-regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/myriadpro-regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/myriadpro-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/myriadpro-regular.svg#myriadpro-regular') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'MyriadPro';
+	font-weight:800;
+	src: url('../fonts/myriadpro-black.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/myriadpro-black.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/myriadpro-black.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/myriadpro-black.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/myriadpro-black.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/myriadpro-black.svg#myriadpro-black') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'MyriadPro';
+	font-weight:600;
+	src: url('../fonts/myriadpro-bold.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/myriadpro-bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/myriadpro-bold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/myriadpro-bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/myriadpro-bold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/myriadpro-bold.svg#myriadpro-bold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'MyriadPro';
+	font-weight:300;
+	src: url('../fonts/myriadpro-light.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/myriadpro-light.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/myriadpro-light.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/myriadpro-light.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/myriadpro-light.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/myriadpro-light.svg#myriadpro-light') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+
+@font-face {
+	font-family: 'MyriadPro';
+	font-weight:500;
+	src: url('../fonts/myriadpro-semibold.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/myriadpro-semibold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/myriadpro-semibold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/myriadpro-semibold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/myriadpro-semibold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/myriadpro-semibold.svg#myriadpro-semibold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
